@@ -1,3 +1,5 @@
 # C++ books
 
-* [_C++ Concurrency in Action_](./books/C++%20Concurrency%20in%20Action.pdf)
+## [Concurrency](./books/concurrency/)
+
+* [_C++ Concurrency in Action_](./books/concurrency/C++%20Concurrency%20in%20Action.pdf)
