@@ -15,3 +15,7 @@
 ## [Concurrency](./books/concurrency/)
 
 * [_C++ Concurrency in Action_](./books/concurrency/C++%20Concurrency%20in%20Action.pdf)
+
+## [Data Mining](./books/data-mining/)
+
+* [_Data Mining Algorithms in C++_](./books/data-mining/Data%20Mining%20Algorithms%20in%20C++_%20Data%20Patterns%20and%20Algorithms%20for%20Modern%20Applications%20(%20PDFDrive%20).pdf)
