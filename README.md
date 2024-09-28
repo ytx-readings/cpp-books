@@ -1,5 +1,12 @@
 # C++ books
 
+## [C++ language](./books/C++%20language/)
+
+* [_C++ Primer (5th Edition)_](./books/C++%20language/C++.Primer.5th.Edition_2013.pdf)
+* [_C++ Primer Plus (6th Edition)_](./books/C++%20language/C++.Primer.Plus.6th.Edition.Oct.2011.pdf)
+* [_Effective Modern C++_](./books/C++%20language/Effective%20Modern%20C++%20(%20PDFDrive.com%20).pdf)
+* [_The C++ Programming Language (4th Edition)_](./books/C++%20language/The_C++_Programming_Language_4th_Edition_Bjarne_Stroustrup.pdf)
+
 ## [C++17](./books/C++17/)
 
 * [_Beginning C++17:: From Novice to Professional_](./books/C++17/Beginning%20C++17%20From%20Novice%20to%20Professional%20(%20PDFDrive%20).pdf)
