@@ -32,3 +32,7 @@
 * [_Design Patterns in Modern C++_](./books/design/Design%20Patterns%20in%20Modern%20C++%20(%20PDFDrive%20).pdf)
 * [_Large-Scale C++ Software Design_](./books/design/Large-Scale%20C++%20Software%20Design.pdf)
 * [_Practical C++ Design: From Programming to Architecture_](./books/design/Practical%20C++%20Design_%20From%20Programming%20to%20Architecture%20(%20PDFDrive%20).pdf)
+
+## [Embedded Systems](./books/embedded-systems/)
+
+* [_Real-Time C++_](./books/embedded-systems/Real-Time%20C++_%20Efficient%20Object-Oriented%20and%20Template%20Microcontroller%20Programming%202nd%20Edition%20(%20PDFDrive%20).pdf)
