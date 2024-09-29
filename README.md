@@ -36,3 +36,9 @@
 ## [Embedded Systems](./books/embedded-systems/)
 
 * [_Real-Time C++_](./books/embedded-systems/Real-Time%20C++_%20Efficient%20Object-Oriented%20and%20Template%20Microcontroller%20Programming%202nd%20Edition%20(%20PDFDrive%20).pdf)
+
+## [STL](./books/STL/)
+
+* [_Effective STL_](./books/STL/Effective%20STL%20[C++%20standard%20library]%20(%20PDFDrive%20).pdf)
+* [_STL Tutorial and Reference Guide_](./books/STL/STL%20Tutorial%20and%20Reference%20Guide%20C++%20Programming%20with%20the%20Standard%20Template%20Library%20(%20PDFDrive%20).pdf)
+* [_The C++ Standard Library_](./books/STL/The%20C++%20Standard%20Library_%20A%20Tutorial%20and%20Reference%20(%20PDFDrive%20).pdf)
