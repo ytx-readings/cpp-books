@@ -23,3 +23,12 @@
 ## [Data Structures and Algorithms](./books/data-structures-and-algorithms/)
 
 * [_Data Structures, Algorithms and Applications in C++](./books/data-structures-and-algorithms/data-structures-algorithms-and-applications-in-c-by-sartraj-sahani.pdf)
+
+## [Design](./books/design/)
+
+* [_API Design for C++_](./books/design/API%20Design%20for%20C++%20(%20PDFDrive%20).pdf)
+* [_C++ Software Design: Design Principles and Patterns for High-Quality Software_](./books/design/dokumen.pub_c-software-design-design-principles-and-patterns-for-high-quality-software-1nbsped-9781098113162.pdf)
+* [_Clean C++: Sustainable Software Development Patterns and Best Practices with C++ 17_](./books/design/Clean%20C++_%20Sustainable%20Software%20Development%20Patterns%20and%20Best%20Practices%20with%20C++%2017%20(%20PDFDrive%20).pdf)
+* [_Design Patterns in Modern C++_](./books/design/Design%20Patterns%20in%20Modern%20C++%20(%20PDFDrive%20).pdf)
+* [_Large-Scale C++ Software Design_](./books/design/Large-Scale%20C++%20Software%20Design.pdf)
+* [_Practical C++ Design: From Programming to Architecture_](./books/design/Practical%20C++%20Design_%20From%20Programming%20to%20Architecture%20(%20PDFDrive%20).pdf)
