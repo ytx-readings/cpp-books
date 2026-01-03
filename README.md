@@ -29,7 +29,7 @@
 
 ## [Data Structures and Algorithms](./books/data-structures-and-algorithms/)
 
-- [\_Data Structures, Algorithms and Applications in C++](./books/data-structures-and-algorithms/data-structures-algorithms-and-applications-in-c-by-sartraj-sahani.pdf)
+- [_Data Structures, Algorithms and Applications in C++_](./books/data-structures-and-algorithms/data-structures-algorithms-and-applications-in-c-by-sartraj-sahani.pdf)
 
 ## [Design](./books/design/)
 
