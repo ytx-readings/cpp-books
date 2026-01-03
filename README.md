@@ -2,7 +2,7 @@
 
 ## [C++ language](./books/C++%20language/)
 
-- _A Tour of C++_
+- [_A Tour of C++_](./books/C++%20language/A%20Tour%20of%20C++/)
   - [Third Edition](./books/C++%20language/A%20Tour%20of%20C++/dokumen.pub_tour-of-c-a-c-in-depth-series-3nbsped-0136816487-9780136816485.pdf)
   - [Second Edition](<./books/C++%20language/A%20Tour%20of%20C++/(C++%20In-Depth%20Series)%20Bjarne%20Stroustrup%20-%20A%20Tour%20of%20C++-Addison-Wesley%20Professional%20(2018).pdf>)
 - [_C++ Primer (5th Edition)_](./books/C++%20language/C++.Primer.5th.Edition_2013.pdf)
